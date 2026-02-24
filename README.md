@@ -1,16 +1,13 @@
-## Hi there 👋
+# Maaz Python Projects 🐍
 
-<!--
-**maaz-python/maaz-python** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About
+This repository contains my beginner Python practice programs.
+I am learning Python step by step and uploading my work here.
 
-Here are some ideas to get you started:
+## What you will find
+- Basic Python programs
+- Practice problems
+- Small logic-based examples
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Status
+Beginner | Learning daily
