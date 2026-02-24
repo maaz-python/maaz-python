@@ -1,4 +1,4 @@
-# Maaz Python Projects 🐍
+# Maaz Python Projects
 
 ## About
 This repository contains my beginner Python practice programs.
